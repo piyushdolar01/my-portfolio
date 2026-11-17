@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Piyush Dolar, a fresher software developer",
+  "main": "script.js",
+  "scripts": {
+    "dev": "echo 'Open index.html in a browser to view the portfolio'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "portfolio",
+    "software-developer"
+  ],
+  "author": "Piyush Dolar",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
